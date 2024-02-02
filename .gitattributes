@@ -1,3 +1,1 @@
-output_shpfile/mortality_perDistrict_perMonth_shp filter=lfs diff=lfs merge=lfs -text
-output_shpfile/covid_total_mortality_perDistrict_perMonth_shp filter=lfs diff=lfs merge=lfs -text
-output_shpfile/district_key_table_shp filter=lfs diff=lfs merge=lfs -text
+*.shp filter=lfs diff=lfs merge=lfs -text
